@@ -2,7 +2,7 @@
 
 Steps to follow:
 
-Install Docker Engine according to your Operating System [(https://docs.docker.com/engine/install)].
+Install Docker Engine according to your Operating System (https://docs.docker.com/engine/install).
 After installing and meeting all the requirements and prerequisites
 
 ## run this command on terminal/cmd to verify if docker is installed successfully
