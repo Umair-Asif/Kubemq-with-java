@@ -33,3 +33,14 @@ In order to get your own KubeMQ Token key (https://account.kubemq.io/login)
  
 >Deep learning of kubemq implementation on java
 (https://piotrminkowski.com/2020/01/17/kubernetes-messaging-with-java-and-kubemq/)
+
+
+# POST REQUEST data in raw format
+
+`{   "type": "CASH",
+    "accountIdFrom": 5,
+    "status": "NEW",
+    "accountIdTo": 988,
+    "amount": 5400,
+    "id": 918
+}`
