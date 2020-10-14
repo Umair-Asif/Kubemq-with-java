@@ -23,3 +23,4 @@ docker ls -a
 docker run -d -p 8181:8080 -p 52000:50000 -p 9191:9090 -v $PWD:/store -e KUBEMQ_TOKEN=927deb10-c0d0-4d0e-9bcf-8aa4809aa076 kubemq/kubemq
 
  
+ 
