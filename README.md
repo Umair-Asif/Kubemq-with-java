@@ -15,7 +15,7 @@ After installing and meeting all the requirements and prerequisites
 
 - docker ls -a
 
-## you'll get something like this
+## if image exists you'll get something like this
 5cc9ae##f4ba        kubemq/kubemq       "./kubemq-run"      1 hours ago        Up 24 hours         0.0.0.0:8181->8080/tcp, 0.0.0.0:9191->9090/tcp, 0.0.0.0:51000->51000/tcp   determined_banach
 
 ## To start using kubemq message queue, we first need to run a kubemq docker container
