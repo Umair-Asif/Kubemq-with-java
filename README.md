@@ -20,7 +20,7 @@ After installing and meeting all the requirements and prerequisites
 
 >by default Sender(publisher) port is **8080**, Receiver (subscribers/listeners) port is **9090** and cluster port is **50000**
 
-## In order to get your own KubeMQ Token key (https://account.kubemq.io/login)
+In order to get your own KubeMQ Token key (https://account.kubemq.io/login)
 
 ## To start using kubemq message queue, we first need to run a kubemq docker container
 
