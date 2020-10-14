@@ -27,3 +27,5 @@ After installing and meeting all the requirements and prerequisites
  
  ### In order to run change cluster port "In our case it is 52000" you'll need to set cluster port in /src/main/resources/application.yaml
  - kubemq.address: localhost:52000
+ 
+>(https://piotrminkowski.com/2020/01/17/kubernetes-messaging-with-java-and-kubemq/)
