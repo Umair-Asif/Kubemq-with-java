@@ -28,7 +28,7 @@ In order to get your own KubeMQ Token key (https://account.kubemq.io/login)
 
 >Test Token: 927deb10-c0d0-4d0e-9bcf-8aa4809aa076
  
- ## In order to run change cluster port "In our case it is 52000" you'll need to set cluster port in /src/main/resources/application.yaml
+ ## In order to change cluster port "In our case it is 52000" you'll need to set cluster port in /src/main/resources/application.yaml
  - kubemq.address: localhost:52000
  
 >Deep learning of kubemq implementation on java
